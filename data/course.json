@@ -1,0 +1,45 @@
+{
+  "term": "Spring",
+  "year": "2024",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Chinese"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "c192c8bd-d444-4b30-b9e4-7a79ede340d8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "bf468681-db30-40f5-bd4c-b2442e0915ca",
+    "website": "project-based-language-learning-for-chinese-streamlined-ii"
+  },
+  "course_title": "Project-Based Language Learning for Chinese II (Streamlined)",
+  "hide_download": false,
+  "mit_learn_topics": [
+    [
+      "Humanities",
+      "Language"
+    ]
+  ],
+  "course_description": "This is the student project for the Spring 2024 MIT course\u00a0[*21G.108 Chinese II (Streamlined)*](https://ocw.mit.edu/courses/21g-108-chinese-ii-streamlined-spring-2015/). In the project, Chinese heritage language students explore various topics, including the meaning of their Chinese names. Based on their discoveries, each student creates an online book.",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.21G-108",
+  "learning_resource_types": [
+    "Activity Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "9c528a81-c590-4ab1-8dd7-adc0f33ebedf",
+  "site_short_id": "res.21g-108-spring-2024"
+}
