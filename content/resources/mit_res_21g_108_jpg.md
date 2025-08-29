@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/project-based-language-learning-for-chinese-streamlined-ii/mit_res_21g_108.jpg
+file: /ol-ocw-studio-app/courses/res-21g-108-project-based-language-learning-for-chinese-streamlined-ii-spring-2024/mit_res_21g_108.jpg
 file_size: 3943364
 file_type: image/jpeg
 image_metadata:
