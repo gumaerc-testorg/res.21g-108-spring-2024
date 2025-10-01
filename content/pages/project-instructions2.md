@@ -8,7 +8,7 @@ uid: edfb01c2-8554-4414-b4fa-621df9911af3
 ---
 ## Step 1
 
-Make a book with [Book Creator](https://bookcreator.com/). All the text should be in Chinese characters.
+Make a book with {{% resource_link "378ba641-631a-4ab4-80de-67df2eaf53fa" "Book Creator" %}}. All the text should be in Chinese characters.
 
 ### Project content
 

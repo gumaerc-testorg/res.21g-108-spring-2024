@@ -6,11 +6,11 @@ draft: false
 title: Overview
 uid: 331fbfa0-7fc8-4468-94cb-664aa1918f21
 ---
-In this project, you will create a digital book in Chinese to explore an issue of your choice. You will use [Book Creator](https://bookcreator.com/) to create this book. Your book can include images, texts, videos, and audio.
+In this project, you will create a digital book in Chinese to explore an issue of your choice. You will use {{% resource_link "378ba641-631a-4ab4-80de-67df2eaf53fa" "Book Creator" %}} to create this book. Your book can include images, texts, videos, and audio.
 
-[This tutorial video](https://intercom.help/bookcreator/en/articles/4143604-book-creator-tutorial-for-%20students) includes instructions on how to log in to Book Creator as a student.
+{{% resource_link "ad0ae2a7-7bf6-4d3a-895c-06273a6e698e" "This tutorial video" %}} includes instructions on how to log in to Book Creator as a student.
 
-[This YouTube video](https://www.youtube.com/watch?v=A0bWoYdjEfQ) provides information on how to create a book.
+{{% resource_link "a2d84a04-5972-4c79-a28c-edc04e317f46" "This YouTube video" %}} provides information on how to create a book.
 
 ## Goal
 
@@ -52,4 +52,4 @@ Book Creator
 
 ## Instructor Interview
 
-In this [interview](https://www.youtube.com/watch?v=EonlJz49iBQ), the instructor discusses this project in which Chinese heritage language students explore the meaning of their Chinese names and create an online book based on their discoveries.
+In this {{% resource_link "693716c5-179d-4613-8a8b-1262f45ffa8f" "interview" %}}, the instructor discusses this project in which Chinese heritage language students explore the meaning of their Chinese names and create an online book based on their discoveries.
